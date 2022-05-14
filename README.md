@@ -5,7 +5,7 @@ I'm an inquisitive front-end developer and researcher. I am a fan of the violin,
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&logoColor=0a66c2&style=flat-square)](https://www.linkedin.com/in/whitney-o-837903198/) [![Mail Badge](https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=ea4335&style=flat-square)](mailto:winniewinewriters@gmail.com)
 
 - I am continuously seeking new challenges 🕵️‍♀️.
-- Fun fact: Many people live on the internet :alien: . Hence, the web should be beautiful, engaging, and fun :sparkles: .
+- Fun fact: Many people live on the internet :alien: . Hence, the web should be beautiful, engaging, and fun :star: .
 - Another fun fact: I enjoy learning new stuff :grin: .
 
 ### Top Technologies
