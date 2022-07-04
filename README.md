@@ -1,4 +1,4 @@
-## Hi, I'm Whitney <img src="./.github/waving-gif.gif" width="28px" height="28px" alt="hi">
+## Hi, I'm Whitney <img src="./.github/waving-gif.gif" width="28px" height="28px" alt="hi"> [My portfolio][10]
 I'm an inquisitive front-end developer and researcher. I am a fan of the violin, although I don't play yet. Don't worry; there is still life. I hope to learn one day.
 
 :e-mail: Say hello!
@@ -24,4 +24,5 @@ I'm an inquisitive front-end developer and researcher. I am a fan of the violin,
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+[10]: https://my-portfolio-1-939dc.web.app/
 
