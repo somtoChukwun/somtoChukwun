@@ -21,7 +21,7 @@ I'm an inquisitive front-end developer and researcher. I am a fan of the violin,
 
 ### Coding Stats
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=somtoChukwun.somtoChukwun&left_color=black&right_color=lime)]()
-[![Nmesoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtoChukwun&hide=contribs,prs,stars&theme=chartreuse-dark)]()
+<!--[![Nmesoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtoChukwun&hide=contribs,prs,stars&theme=chartreuse-dark)]()-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
