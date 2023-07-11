@@ -25,5 +25,5 @@ I'm an inquisitive front-end developer and researcher. I am a fan of the violin,
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-[10]: https://my-portfolio-1-939dc.web.app/
+[10]: https://nmesoma-olumba.web.app/
 
