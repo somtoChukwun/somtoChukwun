@@ -1,4 +1,4 @@
-## Hi, I'm Whitney <img src="./.github/waving-gif.gif" width="28px" height="28px" alt="hi"> 
+## Hi, I'm Nmesoma <img src="./.github/waving-gif.gif" width="28px" height="28px" alt="hi"> 
 I'm an inquisitive front-end developer and researcher. I am a fan of the violin, although I don't play yet. Don't worry; there is still life. I hope to learn one day.
 
 :e-mail: Say hello!
