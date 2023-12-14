@@ -2,7 +2,7 @@
 I'm an inquisitive front-end developer and researcher. I am a fan of the violin, although I don't play yet. Don't worry; there is still life. I hope to learn one day.
 
 :e-mail: Say hello!
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&logoColor=0a66c2&style=flat-square)](https://www.linkedin.com/in/whitney-o-837903198/) [![Mail Badge](https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=ea4335&style=flat-square)](mailto:winniewinewriters@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=ea4335&style=flat-square)](mailto:winniewinewriters@gmail.com)
 [My portfolio][10]
 
 - I am continuously seeking new challenges 🕵️‍♀️.
