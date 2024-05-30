@@ -1,5 +1,5 @@
 ## Hi, I'm Nmesoma <img src="./.github/waving-gif.gif" width="28px" height="28px" alt="hi"> 
-I'm an inquisitive front-end developer and researcher. I am a fan of the violin, although I don't play yet. Don't worry; there is still life. I hope to learn one day.
+I'm an inquisitive developer and researcher. I am a fan of the violin, although I don't play yet. Don't worry; there is still life. I hope to learn one day.
 
 :e-mail: Say hello!
 [![Mail Badge](https://img.shields.io/badge/-Email-000000?logo=gmail&logoColor=ea4335&style=flat-square)](mailto:winniewinewriters@gmail.com)
