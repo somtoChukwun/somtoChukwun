@@ -16,12 +16,7 @@ I'm an inquisitive developer and researcher. I am a fan of the violin, although 
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&labelColor=black&logo=firebase&logoColor=ffca28)](#) [![Sass Badge](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&labelColor=black&logo=sass&logoColor=cc6699)](#) [![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=black&logo=nodedotjs&logoColor=339933)](#) [![Python Badge](https://img.shields.io/badge/-Python-3776ab?style=flat-square&labelColor=black&logo=python&logoColor=3776ab)](#)
 
 ### Useful Links
-[![CodePen Badge](https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=flat-square)](https://codepen.io/somtoChukwun/) [![Download Badge](https://img.shields.io/badge/-Download%20CV-000000?logo=icloud&logoColor=white&style=flat-square)](#) [![CV Badge](https://img.shields.io/badge/Email-Say%20Hi-ea4335?style=flat-square&labelColor=black&logo=gmail&logoColor=ea4335)](mailto:winniewinewriters@gmail.com)
 
-
-### Coding Stats
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=somtoChukwun.somtoChukwun&left_color=black&right_color=lime)]()
-<!--[![Nmesoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=somtoChukwun&hide=contribs,prs,stars&theme=chartreuse-dark)]()-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
